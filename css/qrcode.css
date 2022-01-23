@@ -1,0 +1,30 @@
+body{
+    position: absolute;
+    transform: translate(90%, 11%);
+}
+
+.container{
+    text-align: center;
+    background-color: rgba(221, 23, 23, 0.205);
+}
+p{
+    color: solid black;
+    font-size: 70px;
+    margin: 0;
+}
+
+.btn-cancel {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 40px;
+}
+
+.btn-c { 
+    color: rgb(248, 8, 8);
+    font-size: 20px;
+}
+
+a:hover {
+    color: darkgreen;
+    text-decoration: underline;
+}
